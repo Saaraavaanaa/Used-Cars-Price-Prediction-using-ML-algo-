@@ -20,7 +20,7 @@ Seconded cars Price Prediction in python
 <img src=20210523_151529.png alt="run">
 <h5>Step 2:</h5>
 <p>Then open the Client side folder and click the index.html</p>
-<img src=20210523_151529.png alt="web">
+<img src="20210523_152016.png" alt="web">
 
 
 
