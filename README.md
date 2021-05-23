@@ -17,7 +17,11 @@ Seconded cars Price Prediction in python
 <h2>How to Run the Machine Learning Project</h2>
 <h5>Step 1:</h5>
 <p>open the Server side folder and run server.py</p>
-<img src=>
+<img src=20210523_151529.png alt="run">
+<h5>Step 2:</h5>
+<p>Then open the Client side folder and click the index.html</p>
+<img src=20210523_151529.png alt="web">
+
 
 
 
